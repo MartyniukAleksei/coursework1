@@ -1,0 +1,3 @@
+﻿  kursova.cpp
+D:\Projects\VS\kursova\kursova\kursova.cpp(150,69): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  kursova.vcxproj -> D:\Projects\VS\kursova\x64\Debug\kursova.exe
